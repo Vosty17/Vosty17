@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vosty17I’m 
+- 👋 Hi, I’m @Vosty17
 - 👀 I’m interested in ...interested in taekwondo and tech stuff like web development,AI and machine learning 
 - 🌱 I’m currently learning ...Python, web design and Database 
 - 💞️ I’m looking to collaborate on ...
